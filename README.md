@@ -1,15 +1,11 @@
 <h1 align="center">Hi there 👋, I'm Mahmoud Abdelnaser</h1>
-![image](https://github.com/user-attachments/assets/4e1cef19-4f4a-4415-90ec-973f1c24cd18)
-## 🚀 Junior DevOps Engineer ☁️🔧
+<h3  align="center"> 🚀 Junior DevOps Engineer ☁️🔧 </h3>
 
 ### 📌 About Me
 > *"Automation-first DevOps Engineer building bridges between code and cloud."*  
 Specialized in **CI/CD pipelines** (GitHub Actions/Jenkins) and **Infrastructure as Code** (Terraform/Ansible).  
 Currently diving deep into **Kubernetes orchestration** and **AWS cloud services**.  
 Daily tools: AWS, Docker, Jenkins, Git, Linux, and Bash scripting.
-
-🎯 **Fun Fact:** I automated my Jenkins-Ansible lab deployments using playbooks and remote-exec 💥
-
 ---
 
 ### 📬 Connect with Me
@@ -47,11 +43,3 @@ Daily tools: AWS, Docker, Jenkins, Git, Linux, and Bash scripting.
 
 ---
 
-## 💡 Pro Tips from My Journey
-
-> **"Infrastructure as Code is Life"**  
-> Terraform + Ansible combo will make you 10x more efficient in cloud automation.
-
----
-
-🛠️ *Always building, always learning. Ping me if you’re into Cloud, DevOps, or coffee ☕.*
