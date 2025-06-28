@@ -7,7 +7,11 @@ Specialized in **CI/CD pipelines** (GitHub Actions/Jenkins) and **Infrastructure
 Currently diving deep into **Kubernetes orchestration** and **AWS cloud services**.  
 Daily tools: AWS, Docker, Jenkins, Git, Linux, and Bash scripting.
 ---
+<p align="left"> 
+<img src="https://komarev.com/ghpvc/?username=Yasmeen&color=brightgreen" alt="watching_count" />
+</p>
 
+---
 ### 📬 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-998877b)
